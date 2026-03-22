@@ -1,0 +1,6 @@
+[Apki]
+name=Repozytorium Aplikacji
+baseurl=https://github.com/BMW0807/RepoApek/x86_x64.git
+enabled=1
+gpgcheck=1
+gpgkey=https://github.com/BMW0807/RepoApek/blob/master/klucz-repo
